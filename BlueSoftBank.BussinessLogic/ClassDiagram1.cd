@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BlueSoftBank.BussinessLogic.Ciudad">
+    <Position X="10.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAACAAABAgAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Ciudad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlueSoftBank.BussinessLogic.Cliente">
+    <Position X="12.5" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="BlueSoftBank.BussinessLogic.Cliente.Tipo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Cliente.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAQACAAEAAgAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlueSoftBank.BussinessLogic.Consultas">
+    <Position X="14.25" Y="1" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAABAAAAAA=</HashCode>
+      <FileName>Consultas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlueSoftBank.BussinessLogic.Cuenta">
+    <Position X="7.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAgAAAAAAAAAACAAAAAgAAAAAAFAAIABQACAgE=</HashCode>
+      <FileName>Cuenta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlueSoftBank.BussinessLogic.CuentaAhorros" Collapsed="true">
+    <Position X="5.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CuentaAhorros.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlueSoftBank.BussinessLogic.CuentaCorriente" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CuentaCorriente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlueSoftBank.BussinessLogic.Movimientos">
+    <Position X="10.25" Y="3.5" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="BlueSoftBank.BussinessLogic.Movimientos.Tipo" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Movimientos.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAgAAAAAAAAAEAAAAAAgA=</HashCode>
+      <FileName>Movimientos.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlueSoftBank.BussinessLogic.Servicios">
+    <Position X="12.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Servicios.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BlueSoftBank.BussinessLogic.Sucursal">
+    <Position X="14.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAACAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Sucursal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
